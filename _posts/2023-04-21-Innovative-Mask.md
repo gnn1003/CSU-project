@@ -65,10 +65,8 @@ tags: [jekyll, ai]
 ---
 ## 參考資料:
 
-### 無人機投放砲彈
-[台製無人機現蹤烏克蘭！投「6枚迫擊砲」毀俄軍　傳波蘭採購800架](https://www.ettoday.net/news/20220824/2323312.htm)<br>
-![](https://cdn2.ettoday.net/images/6529/d6529313.jpg)
-波蘭科技媒體《WP tech》則於18日報導稱，橙森國際所出產的800架「Revolver 860」已先出售給波蘭，再由波蘭政府轉手捐給烏克蘭軍隊
+### 日本藥妝必買&推薦回購商品
+[2023最新🔥日本藥妝必買&推薦回購商品！日本女生都在戴的口罩、超好穿不勒腳踝襪子、日雜狂推KANEBO粉霜、號稱平價版AESOP](https://www.youtube.com/watch?v=zv7pkuZ3gdw))<br>
 
 
 
