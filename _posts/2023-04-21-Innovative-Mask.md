@@ -65,6 +65,8 @@ tags: [jekyll, ai]
 ### 日本藥妝必買&推薦回購商品
 <iframe width="727" height="409" src="https://www.youtube.com/embed/zv7pkuZ3gdw" title="2023最新🔥日本藥妝必買&amp;推薦回購商品！日本女生都在戴的口罩、超好穿不勒腳踝襪子、日雜狂推KANEBO粉霜、號稱平價版AESOP、升級款洗顏粉、&amp;be最新保養品｜itsPeachi" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+### 硅膠口罩支架
+<iframe width="727" height="409" src="https://www.youtube.com/embed/ha9XlwmWypQ" title="硅膠口罩支架 介紹" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <br />
 <br />
