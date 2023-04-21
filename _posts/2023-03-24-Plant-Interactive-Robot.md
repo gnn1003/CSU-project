@@ -1,44 +1,53 @@
 ---
 layout: post
-title: Plant Interactive Robot
-author: [Richard Kuo]
+title: 防沾妝口罩
+author: [Beiwen Lai]
 category: [Lecture]
 tags: [jekyll, ai]
 ---
 
-植物互動機器人
+防沾妝口罩
 
 ---
 ## Content
 * **專題題目** (Project Name & Objectives)
 * **應用與功能說明** (Key Features)
 * **設計考量與所需相關技術** (Design considerations)
-* **系統方塊圖** (System Block Diagrams)
+* **商品資訊** (Product Information)
 * **概念驗證** (Proof of Concept)
 * **成果展示** (Demostation)
 
 ---
-## 植物互動機器人
+## 防沾妝口罩
 
-類別: 互動機器人 <br>
+類別: 生活用品 <br>
 
-目的: 植物感應 <br>
+目的: 使口罩不沾黏臉上妝 <br>
 
 ---
 ### 應用功能說明
-
+每片獨立包裝獨立衛生，高彈性耳帶長時間配戴舒服
+此產品屬防護型立體口罩，內涵熔噴布
 ---
 ### 設計考量與相關技術
-**系統設計考量：**<br>
-1. 移動方式: 固定式機器手臂
-2. 供電方式: AC電源
+**設計考量：**<br>
+ 使用說明: 
+ 1. 雙手拉住耳帶將耳帶拉伸至耳根後
+ 2.貼心可調整鼻線設計
+ 3.依據個人狀況舒適逕行調整
+          
+ 材質用料: 使用防潑水不織布及親膚性複合材質
 
 **所需相關技術：**<br>
-1. 植物ECG感測
+1. 獨家不沾妝布料
+2. 超彈性耳帶
+3. 採用HP INDIGO油墨
 
 ---
-### 系統方塊圖
-TBD
+### 商品資訊
+口罩尺寸: 11.1 X 16.5CM
+彩盒尺寸: 17 X 11 X 11.5CM
+顏色: 黑白
 
 ---
 ### 概念驗證
@@ -50,7 +59,7 @@ TBD
 ---
 ## 參考資料:
 
-### [植物的反撲？藝術家讓植栽控制握有砍刀的機械手臂](https://www.inside.com.tw/article/29190-david-bowen-plant-machete)
+### [為什麼口罩會沾粉底??🤔你必須先了解這件事!!!｜同場推薦適合戴口罩的開架&專櫃粉底](https://www.inside.com.tw/article/29190-david-bowen-plant-machete)
 ![](https://bucket-img.tnlmedia.com/cabinet/files/consoles/1/teams/1/2022/10/obydgBehbWnS8zBugUisQ1OhrtG2VF2CSk0KZIIY.png?auto=compress&fit=max&w=730)
 
 ---
