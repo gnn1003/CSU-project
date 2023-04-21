@@ -19,7 +19,7 @@ tags: [jekyll, ai]
 
 ---
 ## 不沾妝口罩
-類別: 四軸無人機 <br>
+類別: 生活用品 <br>
 
 目的: To-Be-Discussed <br>
 
